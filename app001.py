@@ -262,7 +262,7 @@ At the end add:
     with st.spinner("Generating agreement..."):
 
         response = client.models.generate_content(
-            model="gemini-3.7-flash",
+            model="gemini-2.5-flash",
             contents=prompt
         )
 
