@@ -1,10 +1,11 @@
 
 import streamlit as st
-from google import genai
+
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet
 from io import BytesIO
+from google import genai
 
 
 
