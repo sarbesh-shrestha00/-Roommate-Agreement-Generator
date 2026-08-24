@@ -323,9 +323,9 @@ The application will open in your browser.
 ## `> LIVE APPLICATION`
 
 ```text
-🌐 LIVE APP
+🌐 LIVE APP```
 [streamlit live app link](https://shhfpcuu4ybsxhtvyiem9x.streamlit.app)
-```
+
 
 
 
