@@ -313,7 +313,7 @@ Never commit this file to GitHub.
 ## `> RUN LOCALLY`
 
 ```bash
-streamlit run app.py
+streamlit run app001.py
 ```
 
 The application will open in your browser.
@@ -327,7 +327,7 @@ The application will open in your browser.
 https://YOUR-STREAMLIT-APP-URL
 ```
 
-Replace the URL above with your actual deployed Streamlit application URL.
+
 
 ---
 
@@ -335,10 +335,7 @@ Replace the URL above with your actual deployed Streamlit application URL.
 
 ```text
 📦 SOURCE CODE
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
-```
-
-Replace the URL above with your actual GitHub repository.
+https://github.com/sarbesh-shrestha00/-Roommate-Agreement-Generator```
 
 ---
 
@@ -386,7 +383,7 @@ Stack     : Python | Streamlit | Gemini AI | ReportLab
 ┌──────────────────────────────────────────────────────────────┐
 │                     END OF README                            │
 │                                                              │
-│              > Generate better agreements.                  │
+│              > Generate better agreements.                   │
 │              > Live together. Live better.                   │
 └──────────────────────────────────────────────────────────────┘
 ```
